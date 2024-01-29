@@ -1,4 +1,11 @@
-# Hello 🙂 welcome on my github
+# Hello 🙂
+
+### About me
+> I have always been fascinated by websites and new technologies. But it was only through my master's degree in 2022 that I discovered my love for coding. Since then, the topic has stuck with me and I started teaching myself programming via Udemy, Bootcamp and YouTube.
+
+
+
+
 
 <!--
 **ninagw/ninagw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
