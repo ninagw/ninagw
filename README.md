@@ -1,7 +1,7 @@
 # Hello, I am Nina 🙂
 
 ### About me
-> I have always been fascinated by websites and new technologies. But it was only through my master's degree in 2022 that I discovered my love for coding. Since then, the topic has stuck with me and I started teaching myself programming via Udemy, Bootcamp and YouTube. I would love to become a web3 / blockchain developer one day. 🔮
+> I have always been fascinated by websites and new technologies. But it was only through my master's degree in 2022 that I discovered my love for coding. Since then, the topic has stuck with me and I started teaching myself programming via Udemy, Bootcamps and YouTube. I would love to become a web3 / blockchain developer one day. 🔮
 
 ## My tech stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
