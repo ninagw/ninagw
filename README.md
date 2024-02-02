@@ -15,7 +15,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
 ---
-### More about me
+### Fun facts about me
 - coffee addict ☕️
 - bookaholic 📚
 - Meet my favorite animal: [Click me 🐙🐱🦦](https://giphy.com/gifs/baby-fire-elephant-ri8Kb9LOe5Nza)
