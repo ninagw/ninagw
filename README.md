@@ -20,7 +20,7 @@
 - bookaholic 📚
 - Meet my favorite animal: [Click me 🐙🐱🦦](https://giphy.com/gifs/baby-fire-elephant-ri8Kb9LOe5Nza)
 ---
-  <a href="https://www.linkedin.com/in/nina-weber-54253b16a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nina-weber-54253b16a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 IDEAS: 
