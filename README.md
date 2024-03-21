@@ -27,6 +27,7 @@ IDEAS:
 books -- https://github.com/arg3t/goodreads-readme
 header -- https://reheader.glitch.me/home 
 Tech Icons -- https://github.com/xiaoluoboding/xiaoluoboding/blob/master/README.md
+Tech Icons -- https://github.com/MikeCodesDotNET/ColoredBadges/tree/master
 aufklappbare Bereiche –– https://github.com/brunotacca/brunotacca/blob/main/README.md
 
 
