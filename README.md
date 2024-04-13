@@ -15,10 +15,10 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 
 ## Currently working on:
-#### 🐶 Pocket-Pets-App. Your virtual pet friends: 
+#### 🐶 Pocket-Pets-App. Your virtual pet friends. 
 Remember Tamagotchis? In this app you can take care of your virtual pets, groom and raise them. Minigames, random events and a joyful design make it a real passion project. [Curious? Take a first look.](https://pocket-pets-kappa.vercel.app/)
-#### 📚 Book-Journal-App: 
-Create your digital book shelf with your favorite books. Keep track of your TBR and book challenges. Discover new books, releases & genres. Get inspired by your book friends. Being a book nerd myself I am creating the book app of my dreams which – hopefully – will make me and many book friends very happy.
+#### 📚 Book-Journal-App. 
+Create your digital book shelf with your favorite books. Keep track of your TBR and book challenges. Discover new books, releases & genres. Get inspired by your book friends. // Being a book nerd myself I am creating the book app of my dreams which – hopefully – will make me and many book friends very happy.
 
 ---
 ### Fun facts about me
