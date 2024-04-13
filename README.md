@@ -67,7 +67,6 @@ More Languages & Tools:
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
--->
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -77,3 +76,5 @@ More Languages & Tools:
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+-->
