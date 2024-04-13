@@ -14,6 +14,10 @@
 ## Currently learning:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 
+## I am currently working on:
+🐶 Pocket-Pets. Your virtual pet friends: Remember Tamagotchis? In this app you can take care of your virtual pets, care for them and raise them. Minigames, events and level systems as well as a lot of attention to detail in the design make it a real passion project. Curious? Take a first look.
+📚 Book-Journal-App: Create your digital book self with your favorite books. Keep track of your TBR & book challenges. Discover new books & genres. Get inspired by your book friends.
+
 ---
 ### Fun facts about me
 - coffee addict ☕️
