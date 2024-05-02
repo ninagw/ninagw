@@ -19,6 +19,7 @@
 
 ## Currently learning:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
