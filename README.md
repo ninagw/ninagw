@@ -25,7 +25,7 @@
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
 Remember Tamagotchis? In this cozy gaming app you can take care of your virtual pets, groom and raise them. Minigames, random events and a joyful design make it a real passion project. [Curious? Take a first look.](https://pocket-pets-kappa.vercel.app/)
 #### 📚 Book-Journal-App. 
-Create your digital book shelf with your favorite books. Keep track of your TBR and book challenges. Discover new books, releases & genres. Get inspired by your book friends. // Being a book nerd myself I am creating the book app of my dreams which will make me – and hopefully many of my book friends – very happy. :)
+Create your digital book shelf with your favorite books. Keep track of your TBR and book challenges. Discover new books, releases & genres. Get inspired by your book friends. Being a book nerd myself I am creating the book app of my dreams which will make me – and hopefully many of my book friends – very happy. :)
 
 ---
 ### Fun facts about me
