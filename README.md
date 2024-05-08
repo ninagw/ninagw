@@ -10,7 +10,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2C%20darkgreen)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23ffffff?style=flat-square&logo=mongodb&logoColor=%2013AA02)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
