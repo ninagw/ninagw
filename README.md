@@ -21,7 +21,6 @@
 ## Currently learning:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-%23282C34?style=flat-square&logo=solidity)
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
@@ -61,7 +60,7 @@ Here are some ideas to get you started:
 
 
 More Languages & Tools:
-![Solidity](https://img.shields.io/badge/-Solidity-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-%23282C34?style=flat-square&logo=solidity)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
