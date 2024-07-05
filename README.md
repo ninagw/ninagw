@@ -22,6 +22,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-%23282C34?style=flat-square&logo=solidity)
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
