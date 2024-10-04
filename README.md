@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 
 
 More Languages & Tools:
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=angular)
