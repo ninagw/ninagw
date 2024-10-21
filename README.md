@@ -21,7 +21,8 @@
 ## Currently learning:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Stencil](https://img.shields.io/badge/-Stencil-%23282C34?style=flat-square&logo=stencil)
-![Solidity](https://img.shields.io/badge/-Solidity-%23282C34?style=flat-square&logo=solidity)
+![Solidity](https://img.shields.io/badge/-Solidity-%234B32C3?style=flat-square&logo=solidity)
+
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
