@@ -12,7 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-007ACC?style=flat-square&logo=webstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIdea-cc3000?style=flat-square&logo=intellijidea&logoColor=white)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
