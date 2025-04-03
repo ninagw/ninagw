@@ -21,7 +21,12 @@
 ## Currently learning:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Stencil](https://img.shields.io/badge/-Stencil-%234B32C3?style=flat-square&logo=stencil)
+![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=angular)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
+
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Webstorm](https://img.shields.io/badge/-Webstorm-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIdea-cc3000?style=flat-square&logo=typescript&logoColor=white)
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
