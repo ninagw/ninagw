@@ -13,6 +13,8 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Webstorm](https://img.shields.io/badge/-Webstorm-007ACC?style=flat-square&logo=webstorm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIdea-cc3000?style=flat-square&logo=intellijidea&logoColor=white)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
@@ -25,8 +27,7 @@
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Webstorm](https://img.shields.io/badge/-Webstorm-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIdea-cc3000?style=flat-square&logo=typescript&logoColor=white)
+
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
