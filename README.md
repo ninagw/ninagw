@@ -26,7 +26,6 @@
 ![Stencil](https://img.shields.io/badge/-Stencil-%234B32C3?style=flat-square&logo=stencil)
 ![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=angular)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![Solidity](https://img.shields.io/badge/-Solidity-%23282C34?style=flat-square&logo=solidity)
 
 ## Currently working on:
