@@ -26,7 +26,6 @@
 ![Stencil](https://img.shields.io/badge/-Stencil-%234B32C3?style=flat-square&logo=stencil)
 ![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=angular)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
-![Solidity](https://img.shields.io/badge/-Solidity-%23282C34?style=flat-square&logo=solidity)
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
