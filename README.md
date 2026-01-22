@@ -25,7 +25,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=angular)
 ![C#](https://img.shields.io/badge/-CSharp-007ACC?style=flat-square&logo=cSharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-%232c3e50?style=flat-square&logo=unity)
-![Angular](https://img.shields.io/badge/-Angular-%232c3e50?style=flat-square&logo=angular)
 
 ## Currently working on:
 #### 🐶 Pocket-Pets. Your virtual pet friends. 
